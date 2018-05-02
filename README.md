@@ -35,7 +35,7 @@ class Ook < Fxxk
 end
 
 puts Ook.new.generate("hello world") 
-#> Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook?O...Ook! Ook!Ook! Ook.Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook.
+>> Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook?O...Ook! Ook!Ook! Ook.Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook.
 ```
 
 ## Development
