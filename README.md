@@ -23,7 +23,7 @@ Or install it yourself as:
 #!/usr/bin/env ruby
 require 'fxxk_gen'
 
-class Ook < Fxxk
+class Ook < Brainfuck
  nxt 'Ook. Ook?'
  prv 'Ook? Ook.'
  inc 'Ook. Ook.'
