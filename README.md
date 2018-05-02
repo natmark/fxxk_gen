@@ -34,8 +34,8 @@ class Ook < Brainfuck
  cls 'Ook? Ook!'
 end
 
-puts Ook.new.generate("hello world") 
->> Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook?O...Ook! Ook!Ook! Ook.Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook.
+puts Ook.new.generate("Hello World") 
+>> Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook?Ook. Ook?Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook? Ook.Ook! Ook!Ook? Ook!Ook. Ook?Ook. Ook.Ook. Ook.Ook! Ook.Ook? Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook?Ook. Ook?Ook. Ook.Ook. Ook.Ook? Ook.Ook! Ook!Ook? Ook!Ook. Ook?Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook.Ook! Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook.Ook? Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook?Ook. Ook?Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook? Ook.Ook! Ook!Ook? Ook!Ook. Ook?Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook.Ook? Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook?Ook. Ook?Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook? Ook.Ook! Ook!Ook? Ook!Ook. Ook?Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook.Ook? Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook?Ook. Ook?Ook. Ook.Ook. Ook.Ook? Ook.Ook! Ook!Ook? Ook!Ook. Ook?Ook. Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook.Ook. Ook.Ook. Ook.Ook. Ook.Ook! Ook.Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook.Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook!Ook! Ook.
 ```
 
 ## Development
