@@ -19,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
-```
+```ruby
 #!/usr/bin/env ruby
 require 'fxxk_gen'
 
